@@ -1,2 +1,2 @@
 # Farm-Management-System
-Farm Management System is web application which helps farmers to list and sell their crops online & buyers to purchase prodcuts and seeds directly from farmers
+Farm Management System is web application which helps farmers to list and sell their crops online & buyers to purchase prodcuts and seeds directly from farmers. A farmer lists and sells his grown crop/product online directly to the buyer for a correct and justified rate. While the buyer can buy fresh crops/products directly from a farmer without any involvement of an intermediate in between them
